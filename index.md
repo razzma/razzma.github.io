@@ -21,4 +21,4 @@ Karlsson ist befreundet mit dem schüchternen Jungen Lillebror, auch wenn diese 
 
 ## Und so sieht der gute aus
 
-<img src="https://de.wikipedia.org/wiki/Datei:Karlsson_vom_Dach.jpg"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Karlsson_vom_Dach.jpg"/>
