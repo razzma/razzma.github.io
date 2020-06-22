@@ -18,3 +18,7 @@ Karlsson ist befreundet mit dem schüchternen Jungen Lillebror, auch wenn diese 
 ## Mein Lieblingszitat von Karlsson lautet:
 
 > Das stört doch keinen großen Geist.
+
+## Und so sieht der gute aus
+
+<img src="https://de.wikipedia.org/wiki/Datei:Karlsson_vom_Dach.jpg"/>
