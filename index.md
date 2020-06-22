@@ -15,6 +15,6 @@ Karlsson ist befreundet mit dem schüchternen Jungen Lillebror, auch wenn diese 
 * listig 
 * unzuverlässig
 
-## Mein Lieblingszitat lautet:
+## Mein Lieblingszitat von Karlsson lautet:
 
 > Das stört doch keinen großen Geist.
